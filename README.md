@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 Born in 1999
+- 👩‍🎓 Post-graduate sudent in Moscow Aviation Insitute
+- 👩‍💻 Golang-developer in Sbermarket.Tech
 <!--
 **sophistik/sophistik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
